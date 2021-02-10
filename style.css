@@ -1,0 +1,22 @@
+.container
+{
+    text-align: center;
+    font-variant: small-caps;
+}
+
+#slide
+{
+    background-color: lemonchiffon;
+}
+
+#slide img
+{
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p
+{
+    color : navy;
+    font-size: 20px;
+}
